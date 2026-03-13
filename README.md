@@ -17,6 +17,12 @@
 
 ## Previews
 
+> **Note:** This is a modified fork of the official Catppuccin theme. 
+> 
+> **Changes in this fork (Mocha - Blue):**
+> - Fixed top status bar text/icons blending into the background (changed `WHITE` to true `#ffffff`).
+> - Fixed autocomplete command menu (e.g., `/` commands) showing a blinding white background in dark mode by adding missing `BACKGROUND_FLOATING` variables.
+
 <details>
 <summary>🌻 Latte</summary>
 <img src="assets/latte.webp"/>
@@ -42,7 +48,7 @@
 
 1. Choose a flavor + accent combination from the [themes](./themes) directory and copy the URL in the following format:
    ```
-   https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/<flavor>/<accent>.json
+   https://raw.githubusercontent.com/Chico890921/vendetta/main/themes/<flavor>/<accent>.json
    ```
    For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/mocha/mauve.json`
 
