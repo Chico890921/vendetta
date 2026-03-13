@@ -19,7 +19,7 @@
 
 > **Note:** This is a modified fork of the official Catppuccin theme. 
 > 
-> **Changes in this fork (Mocha - Blue):**
+> **Changes in this fork (Mocha):**
 > - Fixed top status bar text/icons blending into the background (changed `WHITE` to `#cdd6f4`).
 > - Fixed autocomplete command menu (e.g., `/` commands) showing a blinding white background in dark mode by adding missing `BACKGROUND_FLOATING` variables.
 
