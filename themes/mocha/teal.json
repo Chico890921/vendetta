@@ -1,14 +1,15 @@
 {
-  "name": "Catppuccin Mocha - Teal",
+  "name": "Catppuccin Mocha - Teal (fixed)",
   "description": "Soothing pastel theme for the high-spirited!",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Catppuccin, edit by Chico890921"
     }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
     "BACKGROUND_ACCENT": [ "#94e2d5", "#94e2d5" ],
+    "BACKGROUND_FLOATING": [ "#181825", "#11111b" ],
     "BACKGROUND_MENTIONED": [ "#f9e2af17", "#f9e2af17" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#9399b2", "#9399b2" ],
     "BACKGROUND_MODIFIER_ACCENT": [ "#313244", "#313244" ],
@@ -193,8 +194,8 @@
     "YELLOW_830": "#f9e2af",
     "YELLOW_860": "#f9e2af",
     "YELLOW_900": "#f9e2af",
-    "WHITE": "#1e1e2e",
-    "WHITE_500": "#1e1e2e",
+    "WHITE": "#cdd6f4",
+    "WHITE_500": "#cdd6f4",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#94e2d54d",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#94e2d54d",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#94e2d5",
