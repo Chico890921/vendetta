@@ -20,7 +20,7 @@
 > **Note:** This is a modified fork of the official Catppuccin theme. 
 > 
 > **Changes in this fork (Mocha - Blue):**
-> - Fixed top status bar text/icons blending into the background (changed `WHITE` to true `#cdd6f4`).
+> - Fixed top status bar text/icons blending into the background (changed `WHITE` to `#cdd6f4`).
 > - Fixed autocomplete command menu (e.g., `/` commands) showing a blinding white background in dark mode by adding missing `BACKGROUND_FLOATING` variables.
 
 <details>
@@ -50,7 +50,7 @@
    ```
    https://raw.githubusercontent.com/Chico890921/vendetta/main/themes/<flavor>/<accent>.json
    ```
-   For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/mocha/mauve.json`
+   For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/Chico890921/vendetta/main/themes/mocha/mauve.json`
 
 2. Head to `Settings` > `Bunny`, `Revenge` or `Enmity` > `Themes`
 3. Paste the copied link and press `Install`
