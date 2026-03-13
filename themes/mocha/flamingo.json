@@ -1,14 +1,15 @@
 {
-  "name": "Catppuccin Mocha - Flamingo",
+  "name": "Catppuccin Mocha - Flamingo (fixed)",
   "description": "Soothing pastel theme for the high-spirited!",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Catppuccin, edited by Chico890921"
     }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
     "BACKGROUND_ACCENT": [ "#f2cdcd", "#f2cdcd" ],
+    "BACKGROUND_FLOATING": [ "#181825", "#11111b" ],
     "BACKGROUND_MENTIONED": [ "#f9e2af17", "#f9e2af17" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#9399b2", "#9399b2" ],
     "BACKGROUND_MODIFIER_ACCENT": [ "#313244", "#313244" ],
@@ -193,8 +194,8 @@
     "YELLOW_830": "#f9e2af",
     "YELLOW_860": "#f9e2af",
     "YELLOW_900": "#f9e2af",
-    "WHITE": "#1e1e2e",
-    "WHITE_500": "#1e1e2e",
+    "WHITE": "#cdd6f4",
+    "WHITE_500": "#cdd6f4",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#f2cdcd4d",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#f2cdcd4d",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#f2cdcd",
